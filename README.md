@@ -5,4 +5,4 @@
 
 3. weather-forcast.py - This script gives you all the information about weather of your city by scraping data from a weather forcasting site "https://www.weather-forecast.com".
 
-4. quote-scrapper.py - This script scrapes the top 10 quotes of the week from the site "http://www.simplesite.com/go/cms/features/features" and give it to you on your terminal.
+4. quote-scrapper.py - This script scrapes the top 10 quotes of the week from the site "http://quotesnhumor.com/top-fantasy-quotes/" and give it to you on your terminal.
